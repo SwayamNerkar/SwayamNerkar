@@ -1,20 +1,3 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-Trying to connect to Chat...
-If this issue persists, learn more
-1 of 1,038
-GitHub profile readme. File
-Inbox
-
-Swayam Nerkar <swayamnerkar16@gmail.com>
-Attachments
-1:06 PM (0 minutes ago)
-to swayamnerkar20, me
-
- One attachment
-  •  Scanned by Gmail
 # 💫 About Me:
 # 👋 Hi, I'm Swayam Nerkar<br><br>🎓 BTech Student in Artificial Intelligence (Batch 2027)  <br>💻 AI/ML Developer | Frontend Engineer  <br>🚀 Focused on building real-world intelligent systems  <br><br>---<br><br>## 🧠 About Me<br>- 🔭 Currently working on **AI-based Stock Market Prediction Systems**<br>- 📊 Experienced with **Machine Learning & Deep Learning (LSTM, Scikit-learn)**<br>- 🌐 Skilled in **Frontend Development & UI/UX Design**<br>- ⚡ Interested in **AI + Finance + Real-time Data Systems**<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 👨‍💻 Programming Languages<br>- Python<br>- JavaScript<br>- HTML5, CSS3<br><br>### 🤖 AI/ML<br>- TensorFlow / Keras<br>- Scikit-learn<br>- Pandas, NumPy<br><br>### 🌐 Web Development<br>- React.js (Basics)<br>- REST APIs<br>- Responsive Design<br><br>### ⚙️ Tools & Platforms<br>- Git & GitHub<br>- VS Code<br>- Android Studio<br><br>### 🎨 Design<br>- Canva<br>- UI/UX Principles<br><br>---<br><br>## 🚀 Projects<br><br>### 📈 NIFTY 50 AI Trading Bot<br>- Real-time stock market data integration  <br>- LSTM-based predictive modeling  <br>- Buy/Sell signal generation  <br>- Interactive dashboard visualization  <br><br>---<br><br>### 🎵 Spotify Clone App<br>- Modern responsive UI  <br>- Custom music player interface  <br>- Smooth animations and UX  <br><br>---<br><br>### 💳 Smart Card Manager App<br>- Secure storage for debit/credit card details  <br>- PIN-based authentication  <br>- Clean and intuitive mobile UI  <br><br>---<br><br>## 📊 GitHub Stats<br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwayamNerkar&show_icons=true&theme=default)<br><br>---<br><br>## 📈 Contribution Graph<br>![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SwayamNerkar)<br><br>---<br><br>## 📫 Contact<br>- 📧 Email: swayamnerkar16@gmail.com  <br><br>---<br><br>## ⚡ Career Objective<br>To build scalable AI-driven systems that solve real-world problems, especially in finance, automation, and intelligent applications.
 
